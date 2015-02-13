@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.TestMyEnglish",
   "DisplayName": "TestMyEnglish",
   "Author": "",
-  "Description": "",
+  "Description": "TestMyEnglish",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
